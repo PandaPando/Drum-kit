@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../../../../React"
+	},
+	{
+		"path": "../../../../../Bootcamp Web Development/Dice /Dicee Challenge - Starting Files"
+	},
+	{
+		"path": "../../../../../Bootcamp Web Development/Drum Kit/Drum Kit Starting Files"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "starter"
+  }
+}
